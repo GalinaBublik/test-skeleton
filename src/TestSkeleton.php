@@ -1,6 +1,6 @@
 <?php
 
-namespace \TestSkeleton;
+namespace TestSkeleton;
 
 class TestSkeleton
 {

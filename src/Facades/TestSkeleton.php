@@ -1,6 +1,6 @@
 <?php
 
-namespace \TestSkeleton\Facades;
+namespace TestSkeleton\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
@@ -11,6 +11,6 @@ class TestSkeleton extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return \\TestSkeleton\TestSkeleton::class;
+        return \TestSkeleton\TestSkeleton::class;
     }
 }

@@ -34,13 +34,13 @@
     },
     "autoload": {
         "psr-4": {
-            "\\TestSkeleton\\": "src/",
-            "\\TestSkeleton\\Database\\Factories\\": "database/factories/"
+            "TestSkeleton\\": "src/",
+            "TestSkeleton\\Database\\Factories\\": "database/factories/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "\\TestSkeleton\\Tests\\": "tests/"
+            "TestSkeleton\\Tests\\": "tests/"
         }
     },
     "scripts": {
@@ -60,7 +60,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "\\TestSkeleton\\TestSkeletonServiceProvider"
+                "TestSkeleton\\TestSkeletonServiceProvider"
             ],
             "aliases": {
                 "TestSkeleton": "\\TestSkeleton\\Facades\\TestSkeleton"

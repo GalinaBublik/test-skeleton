@@ -1,10 +1,10 @@
 <?php
 
-namespace \TestSkeleton\Tests;
+namespace TestSkeleton\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use \TestSkeleton\TestSkeletonServiceProvider;
+use TestSkeleton\TestSkeletonServiceProvider;
 
 class TestCase extends Orchestra
 {

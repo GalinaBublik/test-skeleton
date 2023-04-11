@@ -1,6 +1,6 @@
 <?php
 
-namespace \TestSkeleton\Commands;
+namespace TestSkeleton\Commands;
 
 use Illuminate\Console\Command;
 

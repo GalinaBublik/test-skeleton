@@ -1,10 +1,10 @@
 <?php
 
-namespace \TestSkeleton;
+namespace TestSkeleton;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use \TestSkeleton\Commands\TestSkeletonCommand;
+use TestSkeleton\Commands\TestSkeletonCommand;
 
 class TestSkeletonServiceProvider extends PackageServiceProvider
 {
