@@ -1,10 +1,10 @@
 {
-    "name": "galinabublik/test",
+    "name": "galinabublik/test-skeleton",
     "description": "This is my package test",
     "keywords": [
         "",
         "laravel",
-        "test-test-skeleton"
+        "test-skeleton"
     ],
     "homepage": "https://github.com/GalinaBublik/test-skeleton",
     "license": "MIT",
